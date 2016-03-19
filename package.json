@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devgeeks/Canvas2ImagePlugin.git"
+    "url": "git+https://github.com/Ruskyj/Canvas2ImagePlugin.git"
   },
   "keywords": [
     "canvas",
@@ -36,7 +36,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devgeeks/Canvas2ImagePlugin/issues"
+    "url": "https://github.com/Ruskyj/Canvas2ImagePlugin/issues"
   },
-  "homepage": "https://github.com/devgeeks/Canvas2ImagePlugin#readme"
+  "homepage": "https://github.com/Ruskyj/Canvas2ImagePlugin#readme"
 }
